@@ -177,7 +177,7 @@ Some discussions on the monitoring [Overhead overhead in production] were archiv
 	</listener>
 }}}
 
-	{{{<async-supported>true</async-supported>}}} and {{{<dispatcher>ASYNC</dispatcher>}}} are needed to support asynchronous requests.
+	{{{<async-supported>true</async-supported>}}} and {{{<dispatcher>ASYNC</dispatcher>}}} are needed to support asynchronous requests with Servlet API 3.0.
 
 === 3. First results ===
 
