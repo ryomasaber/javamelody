@@ -164,6 +164,7 @@ Some discussions on the monitoring [Overhead overhead in production] were archiv
 	<filter>
 		<filter-name>javamelody</filter-name>
 		<filter-class>net.bull.javamelody.MonitoringFilter</filter-class>
+		<async-supported>true</async-supported>
 	</filter>
 	<filter-mapping>
 		<filter-name>javamelody</filter-name>
@@ -176,7 +177,7 @@ Some discussions on the monitoring [Overhead overhead in production] were archiv
 	</listener>
 }}}
 
-	If you add these lines in a Servlet API 3.0 webapp, you may also add {{{<async-supported>true</async-supported>}}} in the filter to support asynchronous requests.
+	{{{<async-supported>true</async-supported>}}} and {{{<dispatcher>ASYNC</dispatcher>}}} are needed to support asynchronous requests.
 
 === 3. First results ===
 
