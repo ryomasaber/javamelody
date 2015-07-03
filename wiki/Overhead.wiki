@@ -4,7 +4,7 @@ Overhead of monitoring tools is often a question, for example in a production en
 
 There were discussions about JavaMelody overhead [https://groups.google.com/forum/#!msg/javamelody/39txASF__Lw/acjcucbmxlcJ here] and [https://groups.google.com/forum/#!topic/javamelody/Em5L-ScNaxo/overview here]. I paste them below for archive.
 
-=== evernat (Nov 25, 2009) :===
+=== evernat (Nov 25, 2009):===
 
 Architecture of JavaMelody is lightweight. So it has a lower overhead as I can compare it to other available solutions. The overhead is so low that it can be enabled continuously in QA environment. And if no problem arises in QA, also continuously in production environment : it is made for that. (It is already used in QA and production with an application of 25 person years.)
 
@@ -20,7 +20,7 @@ For full disclosure, some system actions can consume some cpu. These system acti
 I do not have figures, but overhead is probably under 5% of cpu and of memory, except if you are not reasonable at all when enabling monitoring of spring or ejb3. 
 
 
-=== dkarlsen (May 23, 2011) :===
+=== dkarlsen (May 23, 2011):===
 
 [http://fr.slideshare.net/djkarlsen/significance-of-metrics Roots conference slides] on using JavaMelody in production (slide 3).
 
@@ -100,3 +100,11 @@ to look somewhere else. If you know your application usually takes 500 mb then t
 application logged when the memory went high.
 
 Currently we have JavaMelody embedded to all our applications and JavaMelody is automatically up everytime and mostly used in production and helps solving unexpected problems. 
+
+=== evernat (Jul 7, 2015):===
+
+At my day job, JavaMelody is used in production, on a public web site, continuously for a year now.
+
+It was particularly useful during communication campaigns with high load (up to 20k http sessions, up to 100 concurrently active threads in Tomcat).
+
+There was no problem with JavaMelody (it can't be said the same for the firewall in front of the web site ;-).
