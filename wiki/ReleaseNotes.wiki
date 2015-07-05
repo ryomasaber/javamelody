@@ -8,9 +8,9 @@
   * The JavaMelody project is now migrated from GoogleCode (https://code.google.com/p/javamelody) to GitHub. The new project home page is: https://github.com/javamelody/javamelody/wiki
   * JavaMelody [https://github.com/javamelody/javamelody/issues Issues], [https://github.com/javamelody/javamelody/releases Releases (downloads)], [https://github.com/javamelody/javamelody/wiki/ReleaseNotes Release notes], [https://github.com/javamelody/javamelody/wiki/UserGuide User's guide] have new pages.
   * Contributors to code can now fork the github [https://github.com/javamelody/javamelody repository] and submit [https://github.com/javamelody/javamelody/pulls pull requests]
-  * The repository of the [http://www.grails.org/plugin/grails-melody Grails plugin] is also migrated to https://github.com/javamelody/grails-melody-plugin
-  * The repository of the [https://github.com/javamelody/javamelody/wiki/UserGuide#liferay-plugin Liferay plugin] is migrated to https://github.com/javamelody/liferay-javamelody
-  * The repository of the [https://github.com/javamelody/javamelody/wiki/UserGuide#sonar-plugin Sonar plugin] is migrated to https://github.com/javamelody/sonar-javamelody
+  * The repository of the [http://www.grails.org/plugin/grails-melody Grails plugin] is also moved to https://github.com/javamelody/grails-melody-plugin
+  * The repository of the [https://github.com/javamelody/javamelody/wiki/UserGuide#liferay-plugin Liferay plugin] is moved to https://github.com/javamelody/liferay-javamelody
+  * The repository of the [https://github.com/javamelody/javamelody/wiki/UserGuide#sonar-plugin Sonar plugin] is moved to https://github.com/javamelody/sonar-javamelody
 
 === 1.56.0 ===
 
