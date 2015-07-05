@@ -5,6 +5,8 @@
   * fix issue 338: Javamelody swallows response when some Spring WebAsyncTask/Callable is used (thanks to _Violeta Georgieva_). The [UserGuide#2._web.xml_file web.xml example] in the User's guide is also changed for Async requests with Servlet API 3.0.
   * fix: in latest JIRA versions, monitoring report outputs garbage (gzip compression is now enabled by default in JIRA)
 
+=== JavaMelody migration ===
+
   * The JavaMelody project is now migrated from GoogleCode (https://code.google.com/p/javamelody) to GitHub. The new project home page is: https://github.com/javamelody/javamelody/wiki
   * JavaMelody [https://github.com/javamelody/javamelody/issues Issues], [https://github.com/javamelody/javamelody/releases Releases (downloads)], [https://github.com/javamelody/javamelody/wiki/ReleaseNotes Release notes], [https://github.com/javamelody/javamelody/wiki/UserGuide User's guide] have new pages.
   * Contributors to code can now fork the github [https://github.com/javamelody/javamelody repository] and submit [https://github.com/javamelody/javamelody/pulls pull requests]
