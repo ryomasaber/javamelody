@@ -1,4 +1,11 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/ReleaseNotes =
+
+<br/>
+----
+<br/>
+
+
 === Next release (trunk) ===
 
   * fix: check if async before flushing the response (revision 4090, thanks to _Mark Thomas_)
