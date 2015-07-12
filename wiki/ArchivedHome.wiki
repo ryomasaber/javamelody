@@ -1,4 +1,10 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki =
+
+<br/>
+----
+<br/>
+
 <a href='http://code.google.com/p/javamelody/wiki/Screenshots'><img src='http://javamelody.googlecode.com/svn/trunk/javamelody-core/src/site/resources/screenshots/graphs.png' width='50%' alt='Screenshots' title='Screenshots'/></a>
 <g:plusone></g:plusone><a href='http://code.google.com/p/javamelody/wiki/Donate'><img src='http://javamelody.googlecode.com/svn/wiki/images/btn_donate_LG.gif'/></a>
 <br/><br/>
