@@ -1,4 +1,11 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/AtlassianPlugin =
+
+<br/>
+----
+<br/>
+
+
 = Atlassian JIRA, Confluence and Bamboo Plugin =
 
 *Attention*: The plugin managers may say that the latest javamelody versions are incompatible, but in fact they are certainly compatible as displayed on the [https://marketplace.atlassian.com/plugins/net.bull.javamelody/versions plugin history page].
