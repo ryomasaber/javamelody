@@ -1,3 +1,4 @@
+#labels Deprecated
 === Table of contents ===
   # [#Charts Charts]
   # [#Other_charts Other charts]
