@@ -1,4 +1,10 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/Screenshots#charts =
+
+<br/>
+----
+<br/>
+
 === Table of contents ===
   # [#Charts Charts]
   # [#Other_charts Other charts]
