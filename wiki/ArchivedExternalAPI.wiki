@@ -1,4 +1,11 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/ExternalAPI =
+
+<br/>
+----
+<br/>
+
+
 This page documents the external API of JavaMelody, including how to get the monitoring data in a XML format.
 
 == Table of contents ==
