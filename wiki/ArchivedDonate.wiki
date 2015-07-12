@@ -1,4 +1,10 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/Donate =
+
+<br/>
+----
+<br/>
+
 <wiki:gadget url="http://www.ohloh.net/p/javamelody/widgets/project_partner_badge.xml" height="55" border="0" />
 
 *You can support the JavaMelody project by making a donation like $10. It will be used to buy hardware or hosting services.*
