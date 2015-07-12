@@ -1,4 +1,11 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/TODO =
+
+<br/>
+----
+<br/>
+
+
 == TODO list of features ==
 
 Here is a list of wishes of features.
