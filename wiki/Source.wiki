@@ -1,0 +1,5 @@
+The JavaMelody project has moved.
+
+The current source is at https://github.com/javamelody/javamelody
+
+Source at GoogleCode is archived and still available [https://code.google.com/p/javamelody/source/browse/ here], until [http://google-opensource.blogspot.fr/2015/03/farewell-to-google-code.html January 2016].
