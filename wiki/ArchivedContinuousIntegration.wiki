@@ -1,4 +1,10 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/ContinuousIntegration =
+
+<br/>
+----
+<br/>
+
 == Continuous Integration of JavaMelody ==
 
 [http://en.wikipedia.org/wiki/Continuous_integration Continuous integration] can be used to continuously make nightly builds of JavaMelody and to make reports like unit tests, javadoc or browsable sources.
