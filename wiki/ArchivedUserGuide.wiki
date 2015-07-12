@@ -1,4 +1,10 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/UserGuide =
+
+<br/>
+----
+<br/>
+
 = Description and documentation of Java Melody : monitoring of Java EE applications =
 
 == Table of contents ==
