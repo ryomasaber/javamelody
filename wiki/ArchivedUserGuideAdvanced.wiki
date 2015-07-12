@@ -1,4 +1,11 @@
 #labels Deprecated
+= The JavaMelody project has moved. The new page is https://github.com/javamelody/javamelody/wiki/UserGuideAdvanced =
+
+<br/>
+----
+<br/>
+
+
 = Advanced documentation of Java Melody =
 
 For standard documentation, see [UserGuide]
