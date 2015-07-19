@@ -48,7 +48,7 @@ And
   # ~~Statistics of JSF actions like for Struts actions~~ (done)
   # ~~Possibly document the external API: [ReleaseNotes#1.24.0 lastValue and jmxValue] ; and also xml and json format on some pages~~ (done)
   # Possibly document the rewrap-datasources parameter for Tomcat and Jonas
-  # Format the sql requests before display in the sql statistics
+  # ~~Highlight sql keywords or format sql requests in the display of the sql statistics~~ ([https://github.com/javamelody/javamelody/commit/d78734c3980b508ad678b9df3f10a89ea2559b72 highlighted done])
   # Add a button to kill a system process and its children in the process list?
   # Monitoring of [http://blogs.oracle.com/alanb/entry/monitoring_direct_buffers nio buffers] if Java 7 and of the new [http://download.oracle.com/javase/7/docs/jre/api/management/extension/com/sun/management/OperatingSystemMXBean.html#getSystemCpuLoad%28%29 % system cpu] if Java 7 and Oracle JDK (in other charts?). getSystemCpuLoad may not be implemented on Windows (returns -1) and getProcessCpuLoad is probably useless given that there is already the "% cpu" for the process.
   # Add a view with the classloader hierarchy
