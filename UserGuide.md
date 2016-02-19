@@ -1,0 +1,1 @@
+## The JavaMelody project has moved. <br /> The new page is https://github.com/javamelody/javamelody/wiki/UserGuide ##
